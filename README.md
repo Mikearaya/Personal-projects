@@ -44,4 +44,4 @@ repository for personal projects i'm working on to document issues, projects, bu
 
 ### 11 SQL Zoo MySQL Query Challenge
 
-- [Github](https://github.com/mikearaya/sql-zoo-challenge)
+- [Github](https://mikearaya.github.io/sql-zoo-challenge)
