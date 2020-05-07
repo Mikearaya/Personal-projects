@@ -42,6 +42,10 @@ repository for personal projects i'm working on to document issues, projects, bu
 
 - [Github](https://github.com/mikearaya/enumerable-methods) -- [Live Demo](https://repl.it/@MichaelAraya1/enumerable-methods)
 
-### 11 SQL Zoo MySQL Query Challenge
+### 11 Enumerable Methods (Ruby)
+
+- [Github](https://github.com/mikearaya/tic-tac-toe) -- [Live Demo](https://repl.it/@MichaelAraya1/tic-tac-toe)
+
+### 12 SQL Zoo MySQL Query Challenge
 
 - [Github](https://mikearaya.github.io/sql-zoo-challenge)
